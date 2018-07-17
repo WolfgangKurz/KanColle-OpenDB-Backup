@@ -1,3 +1,10 @@
+# Will not be updated!
+
+KanColle OpenDB Database has moved to AWS RDS.
+
+So this repository will not be updated, at this time.
+
+
 # KanColle OpenDB Database backup
 
 KanColle OpenDB is Transparent opened project.
